@@ -11,7 +11,6 @@ You'll learn how to -
 * Use React Functional components and React Hooks with Ably
 * Host your app on Vercel
 
-[Next.js](https://nextjs.org/) is a React framework from [Vercel](https://vercel.com/). It is used to build static web applications with server side rendering, serverless functions and seamless hosting. It's a framework that takes the React knowledge you already have, and puts some structure and conventions in place.
 
 [Ably](https://www.ably.io/) is realtime, pub/sub messaging platform with a suite of integrated services to deliver complete realtime functionality directly to end-users.
 
